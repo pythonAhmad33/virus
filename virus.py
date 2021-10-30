@@ -1,3 +1,9 @@
+# script virus tapi gada efek
+# goblok yg percaya
+# cuman menggunakan perulangan while
+# login tak jelas..
+# coba tulis 08 trus sandinya sembarang paling login sukses
+
 import smtplib,os
 #from colorama import init
 #init()
